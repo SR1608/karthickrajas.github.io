@@ -8,7 +8,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 ### Internship
 
-<img src="/assets/Anna_univ.png" width="80">                    <img src="/assets/IISc.png" width="80">                     <img src="/assets/TCS.png" width="80">                     <img src="/assets/GE_Digital.png" width="80">
+<img src="/assets/Anna_univ.png" width="80">                    <img src="/assets/IISc.png" width="80">                     <img src="/assets/TCS.png" width="80">                     <img src="/assets/GE.png" width="80">
 
 * **Data science Intern at GE Digital**
   **Text Summarizer - LSTM**
