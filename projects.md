@@ -2,6 +2,7 @@
 layout: page
 permalink: /projects/
 ---
+
 <!---
 iPython Tensorflow Notebook Tutorials
 ====================
@@ -13,9 +14,10 @@ iPython Tensorflow Notebook Tutorials
 - **CNN's with Noisy Labels**: This notebook looks at a recent [paper](https://arxiv.org/pdf/1703.08774.pdf) that discusses how convolutional neural networks that are trained on random labels (with some probability) are still able to acheive good accuracy on MNIST. I thought that the paper showed some eye-brow raising results, so I went ahead and tried it out for myself. It was pretty amazing to see that even when training a CNN with random labels 50% of the time, and the correct labels the other 50% of the time, the network was still able to get a 90+% accuracy. 
 - **And more!**
 -->
+
 Hackathons
 ====================
-![](/assets/GE.png) 
+#![](/assets/GE.png) 
 
 <a>**GE - Datathon**</a>
 - Determining price related actions for GE Renewable products to maximize the contribution margin.
@@ -31,6 +33,7 @@ Sports Data Analysis
 <a href="https://github.com/adeshpande3/March-Madness-2017/blob/master/March%20Madness%202017.ipynb" target="_blank">**March Madness 2017 Bracket Predictor Model**</a> - This iPython notebook looks at how we can use historical data on NCAA regular season games to develop a model that outputs win probability for 2 given teams facing each other. We can frame this as a supervised learning problem where we can use past game by game results as our labels. Each team is represented by a d-dimensional vector containing information for that team (PPG, Number of Wins, etc) during the given season. The element wise difference between the two teams is inputted into a neural network, where the output is the softmax-bounded probability of the likelihood that Team 1 will come out victorious in the matchup. I also wrote a <a href="https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness" target="_blank">blog post</a> about predicting the 2017 March Madness tournament. 
 <br><br><a href="https://github.com/adeshpande3/MLB_Win_Predictor/blob/master/BaseballWinPredictor.lua" target="_blank">**MLB Win Predictor Linear Regression Model**</a> - This project looks at how a team's baseball statistics (ERA, Batting Average, RBI, etc), over the course of a season, contribute to their total number of wins. This uses the Torch7 computing framework to develop a linear regression model that takes in a set of 16 features representing traditional baseball statistics and outputs the predicted number of wins for the given season. Given the season statistics for a team, this model can predict a team's win total within 3 games (1.85% error). 
 -->
+
 Open Source
 ====================
 ![](/assets/osi_symbol.png) 
@@ -41,6 +44,7 @@ Open Source
 Kaggle Competitions
 ====================
 ![](/assets/kaggle.jpg) 
+
 
 <!---
 #<a href="https://github.com/adeshpande3/KaggleTitanic" target="_blank">**Kaggle Titanic**</a> - The Kaggle Titanic competition revolved around taking in a dataset of all the passengers in the Titanic, and then predicting whether or not they survived. The features in the dataset included room location, age, gender, etc. For this competition, I used a variety of different supervised learning approaches (SVMs, KNNs, Decision Trees, Neural Networks), but ultimately found that a KNN model (where K = 17) got the best accuracy of 78.95%. I used Numpy and Sklearn to help preprocess the data and create the models. 
