@@ -17,7 +17,6 @@ iPython Tensorflow Notebook Tutorials
 
 Hackathons
 ====================
-#![](/assets/GE.png) 
 
 <a>**GE - Datathon**</a>
 - Determining price related actions for GE Renewable products to maximize the contribution margin.
