@@ -6,11 +6,11 @@ permalink: /about/
 
 I am a final year Masters student at Indian Insitute of Science, Bangalore. I will be graduating in Jun, 2019. Before **Masters on Business Analytics**, I worked as software developer in Tata Consulatancy Services for Media research. **I am looking for opportunities with emphasis on data science and machine learning.**
 
-### Internship
-
 <img src="/assets/Anna_univ.png" width="200">                    <img src="/assets/IISc.png" width="200">                     <img src="/assets/TCS.png" width="200">                     <img src="/assets/GE.png" width="200">
 
-* **Data science Intern at GE Digital**
+### Internship
+
+### **Data science Intern at GE Digital**
 
 * **Text Summarizer - LSTM**
   - Build a digital tool with “Cognitive Intelligence” embedded in it for assessing LOTO documents
