@@ -11,7 +11,7 @@ Yet to be decided
 
 ### Description
 
-This is a student initiated course, by masters students, hence the teaching is more on the application and usage of statistical techniques rather than statistical approach.
+TBD
 
 ### Class time and location
 
