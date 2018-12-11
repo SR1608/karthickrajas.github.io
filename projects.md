@@ -35,7 +35,6 @@ Sports Data Analysis
 
 Open Source
 ====================
-![](/assets/osi_symbol.png) 
 
 <a href="https://pypi.org/project/data-helper-2/" target="_blank">**Data Helper 2**</a> - Developing package based on python to help user for visualization of data.
 
