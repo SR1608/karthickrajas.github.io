@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /Course/
+---
+
 # Course Name
 # Description
 # Class time and location
