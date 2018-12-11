@@ -28,7 +28,7 @@ Applied Probability and Statistics, Differential calculus and Linear Algebra
 ### Schedule
 
 Event         |Lecture                   |Description                                                                       |Course Material
---------------|--------------------------|----------------------------------------------------------------------------------|-------------------
+------------------|--------------------------|----------------------------------------------------------------------------------|-------------------
 Class1 | Object Oriented Programming in python | Introduction to OOPs: Polymorphism,Abstraction,Exception and Errors, Inheritance| [OOPs](https://docs.google.com/presentation/d/1fgqTGp41PpGCkpjibzvxTNMvHpUywCxMlS9eBz7z9dQ/edit?usp=sharing)
 Class2 | Data Structures and Algorithms | Recursion, Sorting, Analysis of Algorithms | [Data_structures_and_Algorithms](https://docs.google.com/presentation/d/1OpwhNgd96OpZBcBEuBX3xnOhUMuH95-R8zwCldC5ypE/edit?usp=sharing)
 Test 1 | Test on OOPs and DSA | 1.5 Hrs of coding test with few test cases | link will be updated later
