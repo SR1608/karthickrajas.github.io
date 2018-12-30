@@ -40,5 +40,5 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 ### Contact me
 
--[karthick11b36@gmail.com](mailto:email@domain.com)
--[whatsapp](https://wa.me/919894115690)
+- [karthick11b36@gmail.com](mailto:email@domain.com)
+- [whatsapp](https://wa.me/919894115690)
