@@ -41,7 +41,9 @@ Open Source
 
 Kaggle Competitions
 ====================
-![](/assets/kaggle.jpg) 
+
+<img src="/assets/kaggle.jpg" width="150">
+[my profile](https://www.kaggle.com/karthickrajas)
 
 
 <!---
