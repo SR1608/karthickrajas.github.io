@@ -33,8 +33,7 @@ Below are the algorithms that we will discuss in this post.
 
 LU technique decomposes a matrix into an upper, a lower triangular matrix of same size as of the original matrix. It works only for the square matrix and not all the matrix can be decomposed using LU technique. For a non singular matrix A, the LU decomposition is not unique. There can be more than one LU decomposition for the same non singular matrix. The reason for non-unique solution is because of the elementary transformation while solving for L and U. To find out unique solution for LU, constraints should be placed on LU matrix.
 
-```
-# Python Code
+```python
 from numpy import array
 from scipy.linalg import lu
 # define a square matrix
@@ -50,10 +49,8 @@ B = P.dot(L).dot(U)
 print(B)
 ```
 
----
 ##### Note
 The LU decomposition is found iteratively and can't be successful for all the matrices easily. Hence a better/more stable way to solve the problem is called as LU decomposition with partial pivoting, which is built in python.
----
 
 ```R code
 library(Matrix)
@@ -69,8 +66,7 @@ print(expand(lu(X)))
 
 If A is a  m×n  matrix with linearly independent columns, then A can be decomposed as QR, where Q is a m×n matrix whose columns form an orthonormal basis for the column space of A and R is an  non-singular upper triangular matrix. **QR decomposition is not limited to square matrix.**
 
-```
-# Python Code
+```python
 from numpy import array
 from scipy.linalg import lu
 # define a square matrix
@@ -103,8 +99,7 @@ If A is a **real, symmetric and positive definite matrix** then there exists a u
 The Cholesky decomposition is for square symmetric matrices where all values are greater than zero (Positive definite matrix). For a Positive definite matrix all the eigen values with positive and non zero.
 This can also be represented as a product of upper triangular matrix. A = UT.U
 
-```
-# Python Code
+```python
 from numpy import array
 from numpy.linalg import cholesky
 # define a 3x3 matrix
@@ -133,8 +128,7 @@ cl<-chol(x)
 Spectral Analysis is based on Eigen values of the matrix. Let A be a m × m real symmetric matrix. Then there exists an orthogonal matrix P such that (PT.A.P) = Lambda or (A = P.lambda.PT), where lambda is diagonal matrix. Spectral Decomposition can be explained with its application Principal Component Analysis. Principal Component Analysis is a popular dimensionality reduction method. PCA of a matrix A,nxm, simply projects each datapoints into a subspace with m or fewer columns, while retaining the variance explained by each variable.
 PCA is a transformation on the data in to lesser dimensional space. This technique could also be employed when the data is highly co-related. 
 
-```
-# Python Code
+```python
 #libraries
 import numpy as np
 A = np.array([[0,2,1],[3,-1,2],[1,-1,1]])
@@ -162,8 +156,7 @@ eigen(X)
 Singular value decomposition is similar to decomposition using eigen values, but its more generally applicable mainly because **spectral decomposition is only available for square matrix** . Every real matrix has a singular value decomposition, which is not the case with eigen value decomposition. In singular value decomposition we will write A as a product of three matrices:
 A = U.D.VT
 
-```
-# Python Code
+```python
 import numpy as np
 A = np.array([[14,2],[4,22],[16,13]])
 U.D.VT = np.linalg.svd(A, full_matrices=False)
