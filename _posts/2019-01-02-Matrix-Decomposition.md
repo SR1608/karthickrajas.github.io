@@ -184,4 +184,4 @@ V<-sv$v
 #### References
 
 * [Prof.Nishith Kumar](https://www.ime.unicamp.br/~cnaber/Matrix-Decomposition-and-Its-application-in-Statistics_NK.ppt)
-* [Dr. Jason Brownlee](A Gentle Introduction to Matrix Factorization for Machine Learning)
+* [Dr. Jason Brownlee](https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
