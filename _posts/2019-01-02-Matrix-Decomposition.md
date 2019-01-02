@@ -7,7 +7,7 @@ images:
 
 ### Introduction to Matrix Decomposition
 
->In the mathematical discipline of linear algebra, a matrix decomposition or matrix factorization is a factorization of a matrix into a product of matrices.
+**In the mathematical discipline of linear algebra, a matrix decomposition or matrix factorization is a factorization of a matrix into a product of matrices.**
 
 The decomposed matrix are used where the direct calculation can be tedious or subject to underflow or overflow errors.
 There are more than 30 matrix decomposition techniques in practice, In this blog i will try to shed some light on 5 most important techiques used in datascience. Each decomposition techniques severs some purpose depends on priciples in which they are based on. Following are the modern day applications of Matrix Decomposition:
@@ -52,11 +52,12 @@ print(B)
 ##### Note
 The LU decomposition is found iteratively and can't be successful for all the matrices easily. Hence a better/more stable way to solve the problem is called as LU decomposition with partial pivoting, which is built in python.
 
-```R code
+``` r
 library(Matrix)
 X <- matrix(c(3,2,1,9,3,4,4,2,5),ncol=3,nrow=3)
 print(expand(lu(X)))
 ```
+
 ##### Uses
 * This method is highly useful in solving system of linear equations
 * Finding the determinant ( Product of diagonal elements of upper and lower triangular matrix)
@@ -81,7 +82,7 @@ B = Q.dot(R)
 print(B)
 ```
 
-```R code
+``` r
 x<-matrix(c(1,2,3, 2,5,4, 3,4,9),ncol=3,nrow=3)
 qrstr <- qr(x)
 Q<-qr.Q(qrstr)
@@ -113,7 +114,7 @@ B = L.dot(L.T)
 print(B)
 ```
 
-```R code
+``` r
 x<-matrix(c(4,2,-2, 2,10,2, -2,2,5),ncol=3,nrow=3)
 cl<-chol(x)
 ```
@@ -139,7 +140,7 @@ print("\n Eigen vectors :", U)
 print(U*diag(lambda)*U.T)
 ```
 
-```R code
+``` r
 X<-matrix(c('2,0,0,0,3,4,4,9'),ncol=3,nrow=3)
 eigen(X) 
 ```
@@ -165,7 +166,7 @@ print(" Left singular matrix :",U)
 print(" Right singular matrix :", VT)
 ```
 
-```R code
+``` r
 x<-matrix(c(14,2,4,22,16,13),ncol=3,nrow=3)
 sv<-svd(x)
 D<-sv$d
