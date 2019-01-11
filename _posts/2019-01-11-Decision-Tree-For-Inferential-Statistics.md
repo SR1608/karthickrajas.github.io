@@ -5,7 +5,7 @@ images:
   - url: /assets/decision_tree_for_inferential_statistics.jpg
 ---
 
-<img src="/assets/decision_tree_for_inferential_statistics.jpg">
+<img src="/assets/Decision Tree for Inferential Statistics_main_graph.jpg">
 
 #### References
 
