@@ -5,7 +5,7 @@ images:
   - url: /assets/decision_tree_for_inferential_statistics.jpg
 ---
 
-### A primer to Hypothesis Testing
+<img src="/assets/decision_tree_for_inferential_statistics.jpg">
 
 #### References
 
