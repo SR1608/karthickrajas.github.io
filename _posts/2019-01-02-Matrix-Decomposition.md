@@ -10,7 +10,7 @@ images:
 **In the mathematical discipline of linear algebra, a matrix decomposition or matrix factorization is a factorization of a matrix into a product of matrices.**
 
 The decomposed matrix are used where the direct calculation can be tedious or subject to underflow or overflow errors.
-There are more than 30 matrix decomposition techniques in practice, In this blog i will try to shed some light on 5 most important techiques used in datascience. Each decomposition techniques severs some purpose depends on priciples in which they are based on. Following are the modern day applications of Matrix Decomposition:
+There are more than 30 matrix decomposition techniques in practice, In this blog i will try to shed some light on 5 most important techiques used in datascience. Each decomposition techniques severs some purpose depending on the principle in which they are based on. Following are the modern day applications of Matrix Decomposition:
 
 * Solving system of linear equations
 * Data Compression
