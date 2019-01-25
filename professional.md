@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: Professional Information
 permalink: /professional/
 ---
 
