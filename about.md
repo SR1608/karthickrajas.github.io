@@ -8,8 +8,6 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 <img src="/assets/Anna_univ.png" width="150"><img src="/assets/IISc.png" width="150"><img src="/assets/IIMB.png" width="150"><img src="/assets/TCS.png" width="150"><img src="/assets/GE.png" width="150"><img src="/assets/citi.png" width="150">
 
-My Professional Page:
-
 <a href="https:/karthickrajas.github.io/professional/">Professional Page</a>
 
 ### Contact me
