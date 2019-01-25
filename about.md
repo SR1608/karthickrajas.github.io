@@ -10,7 +10,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 My Professional Page:
 
-<a href="{{ site.baseurl }}/professional">Professional Page</a>
+<a href="https://github.com/karthickrajas/karthickrajas.github.io/blob/master/professional.md">Professional Page</a>
 
 ### Contact me
 
