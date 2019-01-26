@@ -1,6 +1,4 @@
-[My Github profile](https://github.com/karthickrajas) <br />
-[LinkedIn Profile](https://www.linkedin.com/in/karthick-raja-s-ab839a45/) <br />
-[My Resume](https://drive.google.com/file/d/1TNLWSZNQd_6IcVTkKHrZC4Ox5LopaAwZ/view?usp=sharing)
+[LinkedIn Profile](https://www.linkedin.com/in/karthick-raja-s-ab839a45/)|| [My Resume](https://drive.google.com/file/d/1TNLWSZNQd_6IcVTkKHrZC4Ox5LopaAwZ/view?usp=sharing)
 
 I am a final year Masters student at Indian Insitute of Science, Bangalore. I will be graduating in Jun, 2019. Before Masters on Business Analytics, I worked as software developer in Tata Consulatancy Services for Media research. I am looking for opportunities with emphasis on data science and machine learning in Healthcare domain.
 
