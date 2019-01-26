@@ -108,5 +108,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 ### *Extra curricular activities*
 ---
 | [Analytical Society of India, IIM, Bangalore – Active Member](https://www.analyticsindia.org/)|
+-------------------------------------------------------------------------------------------------
 | [Campus Ambassador for Analytics Vidhya](https://www.analyticsvidhya.com/)|
+-----------------------------------------------------------------------------
 
