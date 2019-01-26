@@ -1,5 +1,3 @@
-![alt text](https://avatars3.githubusercontent.com/u/30068457?s=400&u=8ee24f03daf887a2e88ea484a9994f35b67d2a1b&v=4.jpg "karthick")
-
 [My Github profile](https://github.com/karthickrajas) <br />
 [LinkedIn Profile](https://www.linkedin.com/in/karthick-raja-s-ab839a45/) <br />
 [My Resume](https://drive.google.com/file/d/1TNLWSZNQd_6IcVTkKHrZC4Ox5LopaAwZ/view?usp=sharing)
@@ -7,8 +5,8 @@
 I am a final year Masters student at Indian Insitute of Science, Bangalore. I will be graduating in Jun, 2019. Before Masters on Business Analytics, I worked as software developer in Tata Consulatancy Services for Media research. I am looking for opportunities with emphasis on data science and machine learning in Healthcare domain.
 
 ### Education
--------------------------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------------------------
 | Year        | Degree          | Institute                                                                                 | CGPA  |
 | ------------|:---------------:| :----------------------------------------------------------------------------------------:|:-----:|
 | 2017-19     | M.Mgmt          | [IISc., Bangalore](http://mgmt.iisc.ac.in/)                                               |8.00   |
@@ -17,13 +15,13 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 ### Academic achievements
 --------------------------------------------------------------------------------------------------------------------------------------
-
 | Awards                                                                                                             | Year          | 
 | ------------|:----------------------------------------------------------------------------------------------------:|---------------| 
 | Won **GE DnA Hackathon** and was awarded with cash prize of 1000 USD.                                              | 2018          | 
 | Awarded 1st prize on Paper presentation at MS Ramaiah Institute of Management – Data Modelling and Microtargeting of Voters for Election Campaigns                                                                                                            | 2018          | 
 | **“ILP Kudos”**, Award for Meritorious People in the training for Business Intelligence, TCS                       | 2017          |
 | Presented paper on “Experiment study on Hot Rolled Square Hollow sections” in IJMCC                                | 2015          |
+
 
 ### Technical Expertise: Mathematical and Statistical Modelling | Machine Learning | Optimization |
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -48,6 +46,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 | Quadratic programming for stock selection | [1](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Non%20Linear%20Programing)|
 | Mixed Integer Programming for art selection | [2](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Assinging%20Art) |
 | Linear Programming for cost optimization of Bus routes | [3](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20School%20Bus%20Optimization) |
+
 
 ### Internship Experience : Data Scientist @ [GE Digital](https://www.ge.com/digital/), Bangalore
 --------------------------------------------------------------------------------------------------------------------------------------
