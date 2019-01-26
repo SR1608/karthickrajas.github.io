@@ -10,7 +10,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 | Year        | Degree          | Institute                                                                                 | CGPA  |
 | ------------|:---------------:| :----------------------------------------------------------------------------------------:|-------|
 | 2017-19     | M.Mgmt          | [IISc., Bangalore](http://mgmt.iisc.ac.in/)                                               |8.00   |
-| 2011-15     | B.E - Civil Engg| [TCE, Madurai](https://www.tce.edu/)                                                      |9.20   |
+| 2011-15     | B.E             | [TCE, Madurai](https://www.tce.edu/)                                                      |9.20   |
 | 2010-11     | Class XII       | [Dolphin School, Madurai](http://dolphinpublicschool.com/)                                |9.29   |
 
 ### Academic achievements
