@@ -5,8 +5,8 @@
 I am a final year Masters student at Indian Insitute of Science, Bangalore. I will be graduating in Jun, 2019. Before Masters on Business Analytics, I worked as software developer in Tata Consulatancy Services for Media research. I am looking for opportunities with emphasis on data science and machine learning in Healthcare domain.
 
 ### Education
-
 -------------------------------------------------------------------------------------------------------------------------------------
+
 | Year        | Degree          | Institute                                                                                 | CGPA  |
 | ------------|:---------------:| :----------------------------------------------------------------------------------------:|:-----:|
 | 2017-19     | M.Mgmt          | [IISc., Bangalore](http://mgmt.iisc.ac.in/)                                               |8.00   |
@@ -15,25 +15,26 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 ### Academic achievements
 --------------------------------------------------------------------------------------------------------------------------------------
-| Awards                                                                                                             | Year          | 
-| ------------|:----------------------------------------------------------------------------------------------------:|---------------| 
+
+| Awards  | Year | 
+| ------------ |:---------------------------------------------------------------------------------------------------:|---------------| 
 | Won **GE DnA Hackathon** and was awarded with cash prize of 1000 USD.                                              | 2018          | 
 | Awarded 1st prize on Paper presentation at MS Ramaiah Institute of Management – Data Modelling and Microtargeting of Voters for Election Campaigns                                                                                                            | 2018          | 
 | **“ILP Kudos”**, Award for Meritorious People in the training for Business Intelligence, TCS                       | 2017          |
-| Presented paper on “Experiment study on Hot Rolled Square Hollow sections” in IJMCC                                | 2015          |
 
 
 ### Technical Expertise: Mathematical and Statistical Modelling | Machine Learning | Optimization |
 --------------------------------------------------------------------------------------------------------------------------------------
+
 #### *Regression, Time series and Advanced Analytics*
 
-| Performing EDA, Data cleansing & Transformation to arrive at a preliminary idea on the variables |[1](https://github.com/karthickrajas/Statistics-Assignment/tree/master/EDA) |
+| Performing EDA, Data cleansing & Transformation to arrive at a preliminary idea on the variables | [1](https://github.com/karthickrajas/Statistics-Assignment/tree/master/EDA) |
 | Used Lasso and Ridge Shrinkage methods for Variable Selection and feature extraction | [2](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment) |
 | Model Selection using AIC, BIC, Forward Selection and Backward Elimination Methods |[3](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/AIC%20criteria) |
 | Residual analysis and Model Diagnosis followed by Cross validation and Prediction for test data | |
 | Studied performance of ARIMA, SARIMA and ARMA models  |[4](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/Time%20Series%20Assignment) |
 | Classification using Logistic regression, Decision trees and Bagging algorithms for credit score dataset |[5](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment) |
-| Developed Parametric and Non-Parametric Survival Models, Cox Regression and Regression Trees | |
+| Developed Parametric and Non-Parametric Survival Models, Cox Regression and Regression Trees |  |
 
 #### *Quantitative Finance: Derivatives and Risk Management*
 
@@ -79,12 +80,15 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 ### Projects
 --------------------------------------------------------------------------------------------------------------------------------------
+
 * Marketing Analytics with Regression for sales prediction, churn modelling, survival analysis for churn and PCA on customer data.[here](https://github.com/karthickrajas/Marketing-Analytics)
+
 
 ### Work in Progress
 --------------------------------------------------------------------------------------------------------------------------------------
 * Package in R for student of DoMS [here](https://github.com/karthickrajas/Lumos)
 * Package in python for data modelling [here](https://github.com/karthickrajas/kapph)
+
 
 ### Previous Work Experience @ [Tata Consultancy Services](https://www.tcs.com)
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -101,10 +105,8 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 * Analysed different Target profiles based on Demographic, Geographic and Socio-Economic Factors.
 * Expertise in Multi-Market Comparison, Trend analysis, Series and Competitions, Exclusivity and Duplication of Viewership, similar Viewing Behaviour Analysis and Forecasting
 
-
 ### *Extra curricular activities*
 ---
 | [Analytical Society of India, IIM, Bangalore – Active Member](https://www.analyticsindia.org/)|
-
 | [Campus Ambassador for Analytics Vidhya](https://www.analyticsvidhya.com/)|
 
