@@ -8,7 +8,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 -------------------------------------------------------------------------------------------------------------------------------------
 
 | Year        | Degree          | Institute                                                                                 | CGPA  |
-| ------------|:---------------:| :----------------------------------------------------------------------------------------:|:-----:|
+| ------------|-----------------| ------------------------------------------------------------------------------------------:|-------|
 | 2017-19     | M.Mgmt          | [IISc., Bangalore](http://mgmt.iisc.ac.in/)                                               |8.00   |
 | 2011-15     | B.E - Civil Engg| [TCE, Madurai](https://www.tce.edu/)                                                      |9.20   |
 | 2010-11     | Class XII       | [Dolphin School, Madurai](http://dolphinpublicschool.com/)                                |9.29   |
@@ -17,7 +17,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 --------------------------------------------------------------------------------------------------------------------------------------
 
 | Awards  | Year | 
-| ------------ |:---------------------------------------------------------------------------------------------------:|---------------| 
+| ------------ |-----------------------------------------------------------------------------------------------------|---------------| 
 | Won **GE DnA Hackathon** and was awarded with cash prize of 1000 USD.                                              | 2018          | 
 | Awarded 1st prize on Paper presentation at MS Ramaiah Institute of Management – Data Modelling and Microtargeting of Voters for Election Campaigns                                                                                                            | 2018          | 
 | **“ILP Kudos”**, Award for Meritorious People in the training for Business Intelligence, TCS                       | 2017          |
@@ -28,55 +28,55 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 
 #### *Regression, Time series and Advanced Analytics*
 
-| Performing EDA, Data cleansing & Transformation to arrive at a preliminary idea on the variables | [1](https://github.com/karthickrajas/Statistics-Assignment/tree/master/EDA) |
-| Used Lasso and Ridge Shrinkage methods for Variable Selection and feature extraction | [2](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment) |
-| Model Selection using AIC, BIC, Forward Selection and Backward Elimination Methods |[3](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/AIC%20criteria) |
-| Residual analysis and Model Diagnosis followed by Cross validation and Prediction for test data | |
-| Studied performance of ARIMA, SARIMA and ARMA models  |[4](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/Time%20Series%20Assignment) |
-| Classification using Logistic regression, Decision trees and Bagging algorithms for credit score dataset |[5](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment) |
-| Developed Parametric and Non-Parametric Survival Models, Cox Regression and Regression Trees |  |
+* Performing EDA, Data cleansing & Transformation to arrive at a preliminary idea on the variables[1](https://github.com/karthickrajas/Statistics-Assignment/tree/master/EDA)
+* Used Lasso and Ridge Shrinkage methods for Variable Selection and feature extraction[2](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment)
+* Model Selection using AIC, BIC, Forward Selection and Backward Elimination Methods[3](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/AIC%20criteria)
+* Residual analysis and Model Diagnosis followed by Cross validation and Prediction for test data
+* Studied performance of ARIMA, SARIMA and ARMA models [4](https://github.com/karthickrajas/Statistics-Assignment/tree/master/MG%20222/Time%20Series%20Assignment)
+* Classification using Logistic regression, Decision trees and Bagging algorithms for credit score dataset[5](https://github.com/karthickrajas/Statistics-Assignment/tree/master/Advanced%20Analytics%20Assignment)
+* Developed Parametric and Non-Parametric Survival Models, Cox Regression and Regression Trees
 
 #### *Quantitative Finance: Derivatives and Risk Management*
 
-| Worked on Bootstrapping algorithm for developing Zero Rate Curves using different interpolation schemes and Pricing back the market instruments | |
-| Performed Option Pricing using Monte Carlo Simulations and Heston Model for European Options |[1](https://github.com/karthickrajas/Finance-Assignment/tree/master/Finance%20Assignment%202) |
-| Analyse Portfolio using Monte Carlo Simulations and convex optimization |[2](https://github.com/karthickrajas/Finance-Assignment/tree/master/Portfolio%20Risk%20Management) |
+* Worked on Bootstrapping algorithm for developing Zero Rate Curves using different interpolation schemes and Pricing back the market instruments
+* Performed Option Pricing using Monte Carlo Simulations and Heston Model for European Options[1](https://github.com/karthickrajas/Finance-Assignment/tree/master/Finance%20Assignment%202)
+* Analyse Portfolio using Monte Carlo Simulations and convex optimization [2](https://github.com/karthickrajas/Finance-Assignment/tree/master/Portfolio%20Risk%20Management)
 
 #### *Operations Research: Linear and Non linear programming | Transportation problem*
 
-| Quadratic programming for stock selection | [1](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Non%20Linear%20Programing)|
-| Mixed Integer Programming for art selection | [2](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Assinging%20Art) |
-| Linear Programming for cost optimization of Bus routes | [3](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20School%20Bus%20Optimization) |
+* Quadratic programming for stock selection [1](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Non%20Linear%20Programing)
+* Mixed Integer Programming for art selection [2](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20Assinging%20Art)
+* Linear Programming for cost optimization of Bus routes [3](https://github.com/karthickrajas/Operations-Research-Assignments/tree/master/Assignment%20-%20School%20Bus%20Optimization)
 
 
 ### Internship Experience : Data Scientist @ [GE Digital](https://www.ge.com/digital/), Bangalore
 --------------------------------------------------------------------------------------------------------------------------------------
 #### *Contractor Document Assessment using CNN, RNN-LSTM*
 
-| Build a digital tool with “Cognitive Intelligence” embedded in it for assessing LOTO documents|
-| The model classifies different part of the document under different criteria with a probability score|
-| Built a text summarizer to summarize the tagged paragraph to support the probability score|
-| Approximately saves a Million dollar per year and enhances compliance of the GE EHS team |
+* Build a digital tool with “Cognitive Intelligence” embedded in it for assessing LOTO documents
+* The model classifies different part of the document under different criteria with a probability score
+* Built a text summarizer to summarize the tagged paragraph to support the probability score
+* Approximately saves a Million dollar per year and enhances compliance of the GE EHS team 
 
 #### *Workers Compensation - Quantile Regression*
 
-| Identification of significant drivers of the expenditure on Medical, Indemnity and other cost|
-| Estimate the dollar impact of each significant driver and Recommend action plan to reduce overall cost|
-| Expecting at least a 5% reduction in claim cost per year and improved safe work environment|
+* Identification of significant drivers of the expenditure on Medical, Indemnity and other cos
+* Estimate the dollar impact of each significant driver and Recommend action plan to reduce overall cost
+* Expecting at least a 5% reduction in claim cost per year and improved safe work environment
 
 #### *DnA Hackathon*
 
-| Determining price related actions for GE Renewable products to maximize the contribution margin|
-| Identifying the impact of customer discounts on sales at part level and master customer level|
-| Differentiate the products based on the price elasticity and recommendation for change in price|
-| Recommendation provided is expected to save 15 million dollars approximately for IP and Non-IP parts|
+* Determining price related actions for GE Renewable products to maximize the contribution margin
+* Identifying the impact of customer discounts on sales at part level and master customer level
+* Differentiate the products based on the price elasticity and recommendation for change in price
+* Recommendation provided is expected to save 15 million dollars approximately for IP and Non-IP parts
 
 
 #### *Image Classification* 
 
-| Classification of Thermal, Wind and Solar power plant based on the Collection of Aerial pictures|
-| Trained a CNN model for the classification of power plant images with batch normalisation|
-| Suggested an unsupervised technique for clustering to differentiate Barren lands from power plants|
+* Classification of Thermal, Wind and Solar power plant based on the Collection of Aerial pictures
+* Trained a CNN model for the classification of power plant images with batch normalisation
+* Suggested an unsupervised technique for clustering to differentiate Barren lands from power plants
 
 ### Projects
 --------------------------------------------------------------------------------------------------------------------------------------
