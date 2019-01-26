@@ -8,7 +8,7 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 -------------------------------------------------------------------------------------------------------------------------------------
 
 | Year        | Degree          | Institute                                                                                 | CGPA  |
-| ------------|-----------------| ------------------------------------------------------------------------------------------:|-------|
+| ------------|:---------------:| :----------------------------------------------------------------------------------------:|-------|
 | 2017-19     | M.Mgmt          | [IISc., Bangalore](http://mgmt.iisc.ac.in/)                                               |8.00   |
 | 2011-15     | B.E - Civil Engg| [TCE, Madurai](https://www.tce.edu/)                                                      |9.20   |
 | 2010-11     | Class XII       | [Dolphin School, Madurai](http://dolphinpublicschool.com/)                                |9.29   |
@@ -16,11 +16,11 @@ I am a final year Masters student at Indian Insitute of Science, Bangalore. I wi
 ### Academic achievements
 --------------------------------------------------------------------------------------------------------------------------------------
 
-| Awards  | Year | 
-| ------------ |-----------------------------------------------------------------------------------------------------|---------------| 
-| Won **GE DnA Hackathon** and was awarded with cash prize of 1000 USD.                                              | 2018          | 
-| Awarded 1st prize on Paper presentation at MS Ramaiah Institute of Management – Data Modelling and Microtargeting of Voters for Election Campaigns                                                                                                            | 2018          | 
-| **“ILP Kudos”**, Award for Meritorious People in the training for Business Intelligence, TCS                       | 2017          |
+| Awards                                                                                                                    | Year | 
+| --------------------------------------------------------------------------------------------------------------------------|------| 
+| Won **GE DnA Hackathon** and was awarded with cash prize of 1000 USD.                                                     | 2018 | 
+| Awarded 1st prize on Paper presentation at MS Ramaiah Institute of Management – Data Modelling and Microtargeting of Voters for Election Campaigns                                                                                                                   | 2018 | 
+| **“ILP Kudos”**, Award for Meritorious People in the training for Business Intelligence, TCS                              | 2017 |
 
 
 ### Technical Expertise: Mathematical and Statistical Modelling | Machine Learning | Optimization |
