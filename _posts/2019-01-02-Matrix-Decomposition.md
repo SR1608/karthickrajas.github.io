@@ -49,6 +49,10 @@ B = P.dot(L).dot(U)
 print(B)
 ```
 
+<p>
+  <script src="https://gist.github.com/karthickrajas/9f5feb0d674283426a99ce2c1e9c240c.js"></script>
+</p>
+
 ##### Note
 The LU decomposition is found iteratively and can't be successful for all the matrices easily. Hence a better/more stable way to solve the problem is called as LU decomposition with partial pivoting, which is built in python.
 
