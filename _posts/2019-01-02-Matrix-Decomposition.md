@@ -5,9 +5,9 @@ images:
   - url: /assets/matrix_decomposition.png
 ---
 <style type="text/css">
-  .gist {width:300px !important;}
+  .gist {width:500px !important;}
   .gist-file
-  .gist-data {max-height: 300px;max-width: 300px;}
+  .gist-data {max-height: 500px;max-width: 500px;}
 </style>
 
 ### Introduction to Matrix Decomposition
@@ -58,27 +58,13 @@ The LU decomposition is found iteratively and can't be successful for all the ma
 
 If A is a  m×n  matrix with linearly independent columns, then A can be decomposed as QR, where Q is a m×n matrix whose columns form an orthonormal basis for the column space of A and R is an  non-singular upper triangular matrix. **QR decomposition is not limited to square matrix.**
 
-```python
-from numpy import array
-from scipy.linalg import lu
-# define a square matrix
-A = array([[3,2], [9,3], [4,2]])
-print(A)
-# QR decomposition
-Q, R = qr(A, 'complete')
-print(Q)
-print(R)
-# reconstruct
-B = Q.dot(R)
-print(B)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/1cb2598045c07231278d2b3255dcf766.js"></script>
+</p>
 
-``` r
-x<-matrix(c(1,2,3, 2,5,4, 3,4,9),ncol=3,nrow=3)
-qrstr <- qr(x)
-Q<-qr.Q(qrstr)
-R<-qr.R(qrstr)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/1b88a0aa87d427f6bc1a39c0f6f6fce9.js"></script>
+</p>
 
 ##### Uses
 * Solving Linear system of Equations
@@ -91,24 +77,13 @@ If A is a **real, symmetric and positive definite matrix** then there exists a u
 The Cholesky decomposition is for square symmetric matrices where all values are greater than zero (Positive definite matrix). For a Positive definite matrix all the eigen values with positive and non zero.
 This can also be represented as a product of upper triangular matrix. A = UT.U
 
-```python
-from numpy import array
-from numpy.linalg import cholesky
-# define a 3x3 matrix
-A = array([[2, 1, 1], [1, 2, 1], [1, 1, 2]])
-print(A)
-# Cholesky decomposition
-L = cholesky(A)
-print(L)
-# reconstruct
-B = L.dot(L.T)
-print(B)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/b5e60ebe2c5a17c6df3ec58a34a7e23e.js"></script>
+</p>
 
-``` r
-x<-matrix(c(4,2,-2, 2,10,2, -2,2,5),ncol=3,nrow=3)
-cl<-chol(x)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/b469016711812338fd5ea085368ab8b1.js"></script>
+</p>
 
 ##### Uses
 * Cholesky can be used in the place of LU decomposition where the matrices are positive definite. 
@@ -120,21 +95,13 @@ cl<-chol(x)
 Spectral Analysis is based on Eigen values of the matrix. Let A be a m × m real symmetric matrix. Then there exists an orthogonal matrix P such that (PT.A.P) = Lambda or (A = P.lambda.PT), where lambda is diagonal matrix. Spectral Decomposition can be explained with its application Principal Component Analysis. Principal Component Analysis is a popular dimensionality reduction method. PCA of a matrix A,nxm, simply projects each datapoints into a subspace with m or fewer columns, while retaining the variance explained by each variable.
 PCA is a transformation on the data in to lesser dimensional space. This technique could also be employed when the data is highly co-related. 
 
-```python
-#libraries
-import numpy as np
-A = np.array([[0,2,1],[3,-1,2],[1,-1,1]])
-print("rank(A) =", np.linalg.matrix_rank(A))
-lambda, U = np.linalg.eig(A)
-print("Eigen values:", lambda)
-print("\n Eigen vectors :", U)
-print(U*diag(lambda)*U.T)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/79cf800028fcdc7122ea2944b090d616.js"></script>
+</p>
 
-``` r
-X<-matrix(c('2,0,0,0,3,4,4,9'),ncol=3,nrow=3)
-eigen(X) 
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/726c4b797a684386872a2e252f1c8aed.js"></script>
+</p>
 
 ##### Uses:
 * Principal Components Extraction
@@ -148,22 +115,14 @@ eigen(X)
 Singular value decomposition is similar to decomposition using eigen values, but its more generally applicable mainly because **spectral decomposition is only available for square matrix** . Every real matrix has a singular value decomposition, which is not the case with eigen value decomposition. In singular value decomposition we will write A as a product of three matrices:
 A = U.D.VT
 
-```python
-import numpy as np
-A = np.array([[14,2],[4,22],[16,13]])
-U.D.VT = np.linalg.svd(A, full_matrices=False)
-print("singular values : ", D)
-print(" Left singular matrix :",U)
-print(" Right singular matrix :", VT)
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/717139b038af49f561ed3e5f8948b759.js"></script>
+</p>
 
-``` r
-x<-matrix(c(14,2,4,22,16,13),ncol=3,nrow=3)
-sv<-svd(x)
-D<-sv$d
-U<-sv$u
-V<-sv$v
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/dbfe058a9f27ae794c1939413dd5b865.js"></script>
+</p>
+
 
 ##### Uses
 * More numerically stable Principal Components
