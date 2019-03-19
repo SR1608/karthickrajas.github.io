@@ -33,22 +33,6 @@ Below are the algorithms that we will discuss in this post.
 
 LU technique decomposes a matrix into an upper, a lower triangular matrix of same size as of the original matrix. It works only for the square matrix and not all the matrix can be decomposed using LU technique. For a non singular matrix A, the LU decomposition is not unique. There can be more than one LU decomposition for the same non singular matrix. The reason for non-unique solution is because of the elementary transformation while solving for L and U. To find out unique solution for LU, constraints should be placed on LU matrix.
 
-```python
-from numpy import array
-from scipy.linalg import lu
-# define a square matrix
-A = array([[3,2,1], [9,3,4], [4,2,5]])
-print(A)
-# LU decomposition
-P, L, U = lu(A)
-print(P)
-print(L)
-print(U)
-# reconstruct
-B = P.dot(L).dot(U)
-print(B)
-```
-
 <p>
   <script src="https://gist.github.com/karthickrajas/9f5feb0d674283426a99ce2c1e9c240c.js"></script>
 </p>
@@ -56,11 +40,9 @@ print(B)
 ##### Note
 The LU decomposition is found iteratively and can't be successful for all the matrices easily. Hence a better/more stable way to solve the problem is called as LU decomposition with partial pivoting, which is built in python.
 
-``` r
-library(Matrix)
-X <- matrix(c(3,2,1,9,3,4,4,2,5),ncol=3,nrow=3)
-print(expand(lu(X)))
-```
+<p>
+<script src="https://gist.github.com/karthickrajas/1d2e7d86f89a1de667cec10e41974a6d.js"></script>
+</p>
 
 ##### Uses
 * This method is highly useful in solving system of linear equations
