@@ -5,9 +5,9 @@ images:
   - url: /assets/matrix_decomposition.png
 ---
 <style type="text/css">
-  .gist {width:500px !important;}
+  .gist {width:1000px !important;}
   .gist-file
-  .gist-data {max-height: 500px;max-width: 500px;}
+  .gist-data {max-height: 1000px;max-width: 1000px;}
 </style>
 
 ### Introduction to Matrix Decomposition
