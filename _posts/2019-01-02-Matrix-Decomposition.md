@@ -4,6 +4,11 @@ excerpt: With Python and R code
 images:
   - url: /assets/matrix_decomposition.png
 ---
+<style type="text/css">
+  .gist {width:300px !important;}
+  .gist-file
+  .gist-data {max-height: 300px;max-width: 300px;}
+</style>
 
 ### Introduction to Matrix Decomposition
 
