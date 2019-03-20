@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: how really the batting average are calculated
+excerpt: Batting average formula and survival analysis.!
 images:
   - url: /assets/batting_averages_banner.jpg
 ---
@@ -38,7 +38,7 @@ Also, Mean of the exponential distribution is 1/λ = 44/5.
 
 Hence the batting average is calculated with the number of innings he got out, after right censoring the batsmen score when he is not out. The survival function of the batsmen based on the data can be given as.. exp(-5x/44)
 
-Hope you find it interesting.!
+Found it interesting.!
 
 #### References
 
