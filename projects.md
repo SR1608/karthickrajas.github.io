@@ -3,33 +3,33 @@ layout: page
 permalink: /projects/
 ---
 
-<!--
-Hackathons
-====================
+I am a big supporter of open source development. Though i am not part of large open source projects, I aspire to contribute to open source communities. 
 
-<a>**GE - Datathon**</a>
-- Determining price related actions for GE Renewable products to maximize the contribution margin.
-- Identifying the impact of customer discounts on sales at part level and master customer level
-- Differentiate the products based on the price elasticity and recommendation for change in price
-- Recommendation provided is expected to save 15 million dollars approximately for IP and Non-IP part
--->
-
-Open Source
-====================
+<!--Open Source
+====================-->
 
 #### Open source Sprints
-<img src="/assets/GK.png" width="150">
+<img src="/assets/GK.png" height="100" width="100">
+
+Have participated in several open data, data kind meetups building applications for rural and urban development.
 
 
 #### Python Packages
+<img src="/assets/pypi.png" height="100" width="100">
+
 <a href="https://pypi.org/project/data-helper-2/" target="_blank">**Data Helper 2**</a> - Developing package based on python to help user for visualization of data.
 
-#### R Packages
+**Contextual bandits** - Developing package for solving multi arm bandits with context.
 
-Kaggle Competitions
-====================
+#### R Packages
+<img src="/assets/cran.png" height="100" width="100">
+
+<a href="https://github.com/karthickrajas/Lumos" target="_blank">**Project LUMOS**</a> - Developing R package for students of Department of Management Studies, contains wrappers to usual procedures and contatins synthetic data for analysis.
+
+<!--Kaggle Competitions
+====================-->
 
 <img src="/assets/kaggle.jpg" width="150">
 
-[my profile](https://www.kaggle.com/karthickrajas)
+[My Profile](https://www.kaggle.com/karthickrajas)
 
