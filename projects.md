@@ -33,7 +33,7 @@ Have participated in several open data, data kind meetups building applications 
 
 [My Profile](https://www.kaggle.com/karthickrajas)
 
-#### (Papers-with-code)[paperswithcode.com]
+#### [Papers-with-code](paperswithcode.com)
 
-<img src="/assets/paperswithcode.png" height="100" width="100">
+<img src="/assets/paperswithcode.jpg" height="100" width="100">
 
