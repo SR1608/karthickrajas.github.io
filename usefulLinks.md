@@ -1,4 +1,4 @@
-Below material will be helpful for Data science and Machine learning Interviews. Though these material are useful, but they are not exhaustive. It is recommended to further explore topics on their own.
+Below material will be helpful for Data science and Machine learning Interviews. Though these material are useful, but they are not exhaustive. It is recommended to further explore topics on your own.
 
 ### Coding platforms
 
@@ -33,7 +33,7 @@ Below material will be helpful for Data science and Machine learning Interviews.
 ### Data Structures and Algorithms
 
 * Book : [Introduction to Algorithms](https://www.amazon.in/Introduction-Algorithms-Eastern-Economy-Thomas/dp/8120340078)
-* Online notes: [CPSC 223: Data Structures and Programming Techniques - (selected sections)](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
+* Online notes: [CPSC 223: Data Structures and Programming Techniques - (Only chapter 5)](https://drive.google.com/open?id=1iTyMJiSToZ24EhnNRIUrDzB0l4SGU2qa)
 * Dynamic Programming: [Geeks for geeks](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ### Cook book
