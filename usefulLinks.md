@@ -2,6 +2,8 @@ Below material will be helpful for Data science and Machine learning Interviews.
 
 ### Coding platforms
 
+One should familiarize themselves with the following programming platforms: 
+
 * [Hacker rank Interview kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * [Hacker Earth Data Structure](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
 * [Hacker Earth Algorithms](https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/)
