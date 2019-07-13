@@ -9,9 +9,10 @@ Below material will be helpful for Data science and Machine learning Interviews.
 ### Books for preparation
 
 * [Introduction to Statistical Learning with R](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
-* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+* [Foundations of Data Science by Microsoft research](https://www.cs.cornell.edu/jeh/book.pdf)
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 * [Mathematics for Machine Learning](https://drive.google.com/open?id=1-LDve0r5rr6chhd8f-WtKnQxkpIZynJN)
+* [Pattern Recognition Notes by Prof Sastry](https://drive.google.com/open?id=1pIKWPZY2EYMM0Y1OXwL3XXYqcpmpbu0w)
 
 ### Coding and Statistics for Beginners
 
@@ -53,6 +54,7 @@ Below material will be helpful for Data science and Machine learning Interviews.
 * [Data Science Cheat sheet -by maverick](https://drive.google.com/open?id=1-FNvFWbrFE-5WNqJO4JAgjpg0oPKP7By)
 * [Git Cheat sheet](https://drive.google.com/open?id=1-PMbRVAIyS-rD-zcHo9tNupicQKykvJ8)
 * [Andrew NG class notes](https://drive.google.com/open?id=1-GcyukeRoAYo7wHwulWHYRPQBEeiNret)
+* [Intro to SQL for data science](https://drive.google.com/open?id=1-Q7yAffV4GKpU131nQadxUJrnD3hkKO8)
 
 ### Advanced Books
 
