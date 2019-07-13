@@ -1,3 +1,5 @@
+Below material will be helpful for Data science and Machine learning Interviews. Though these material are useful, but they are not exhaustive. It is recommended to further explore topics on their own.
+
 ### Coding platforms
 
 * [Hacker rank Interview kit](https://www.hackerrank.com/interview/interview-preparation-kit)
@@ -13,12 +15,12 @@
 
 ### Coding and Statistics for Beginners
 
-*[Think python](https://www.greenteapress.com/thinkpython/thinkpython.pdf)
-*[Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
+* [Think python](https://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Think Stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
 
 ### Probability and Statistics
 * [Stat 500 - Applied Statistics](https://newonlinecourses.science.psu.edu/stat500/)
-* [MG 221 - Professor Chiranjit Mukhopadhyay(http://mgmt.iisc.ac.in/CM/MG221/)
+* [MG 221 - Professor Chiranjit Mukhopadhyay](http://mgmt.iisc.ac.in/CM/MG221/)
 * [Fifty Challenging Problems in Probability](https://www.amazon.in/Challenging-Problems-Probability-Solutions-Mathematics-ebook/dp/B00A3M0VV8)
 
 ### Important Data structures topics
@@ -36,6 +38,10 @@
 ### Cook book
 * [Data Engineering Cookbook](https://drive.google.com/open?id=1-PVlVCLJE1b0EQW9Hw6fRxHZZDb3-e9U)
 * [Competitive programming by Antti Laaksonen](https://cses.fi/book/book.pdf)
+
+### Recommended Machine Learning Projects
+
+* will be updated
 
 ### Cheat sheets
 
