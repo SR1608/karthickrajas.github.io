@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Tensorflow GPU Installation"
+excerpt: Windows 10, 64 Bit
 date:   2019-07-23 7:00:00
+images:
+  - url: /assets/keras_tensorflow_logo.jpg
 tags: 
-- Tensorflow_GPU_Install
-- python
-- gpu
---cuda
---cudnn
---CUDA_PATH 
+	- Tensorflow_GPU_Install
+	- python
+	- gpu
+	--cuda
+	--cudnn
+	--CUDA_PATH 
 ---
 
 The procedure given here was tested with GeForce 920MX 2GB Graphic card, Lenovo Ideapad 310.
