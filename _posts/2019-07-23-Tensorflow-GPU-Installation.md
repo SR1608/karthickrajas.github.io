@@ -58,8 +58,7 @@ Installing Python by Anaconda will easily set up environments and manage librari
   - Click Environment Variables at the bottom of the window
   - Ensure the following values are set, Variable Name: CUDA_PATH, Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0
 
-
-## **Conda Environment **
+## **Conda Environment**
 
 In ananconda propmt, type
 
@@ -78,7 +77,7 @@ Then one can finally install the gpu version directly by
 pip install tensorflow-gpu
 {% endhighlight %}
 
-## ** Testing the GPU **
+## **Testing the GPU**
 
 In anaconda prompt, type
 
